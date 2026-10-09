@@ -1,4 +1,3 @@
-<img width="1906" height="865" alt="Screenshot 2026-10-09 205508" src="https://github.com/user-attachments/assets/cf75d094-3e60-4a17-bd1a-7b2ff48d7c1c" />
 # Autonomous Research & Report Generation Agent
 
 A Retrieval-Augmented Generation (RAG) research assistant built with **LangGraph**,
@@ -78,7 +77,7 @@ See `.env.example` — every setting is documented there
 3. Read the Answer, Report and Sources tabs; download the report as Markdown
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/your-image-id)
+<img width="1906" height="865" alt="Screenshot 2026-10-09 205508" src="https://github.com/user-attachments/assets/cf75d094-3e60-4a17-bd1a-7b2ff48d7c1c" />
 
 ## Testing
 ```powershell
