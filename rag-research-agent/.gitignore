@@ -1,0 +1,21 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Data (private documents + generated vector DB)
+data/vectorstore/
+data/documents/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
